@@ -1,15 +1,10 @@
+👋 Hi, I’m Samira-Khudaida
+👀 I’m a curious beginner with a strong interest in C# programming and the .NET Framework.
+🌱 I’m currently learning C# and enjoy exploring every line of code with a critical eye.
+🖊 I love sketching out ideas on paper first — then bringing them to life as real, working programs.
+🎨 I have a special appreciation for CSS, but I’m also increasingly fascinated by data architecture and system design.
+💬 I’m always open to learning new things and sharing what I discover along the way.
+📫 Feel free to reach out via GitHub!
 
-```markdown
-👋 Hi, I’m @Samira-Khudaida  
-👀 I’m a curious beginner interested in C# programming  
-🌱 Currently learning: C#  
-💬 Always open to learning and sharing knowledge  
-📫 Reach me via GitHub 
-⚡ Fun fact: I love discovering how things work through code!
-```
+🔭 Looking ahead, I aim to keep improving — by developing software that solves real problems more efficiently, cleverly, and with meaningful impact.
 
-Möchtest du auch etwas über deine Ziele oder ein Projekt hinzufügen, an dem du arbeitest?
-<!---
-Samira-Khudaida/Samira-Khudaida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
